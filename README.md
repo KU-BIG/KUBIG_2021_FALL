@@ -11,14 +11,14 @@
 
 
 
-## 방학스터디
+## 정규 스터디
 4개 분반별 스터디(머신러닝/딥러닝개론/CV/NLP) 세션 슬라이드 자료 및 ipynb 파일
 
 
 ## Contact
-github admin : chloesung@korea.ac.kr    
-facebook page : https://www.facebook.com/kubigdata      
-instagram page : https://www.instagram.com/kubig.official  
+- github admin : chloesung@korea.ac.kr    
+- facebook page : https://www.facebook.com/kubigdata      
+- instagram page : https://www.instagram.com/kubig.official  
    
 회장단 : 성유지, 임효진, 조규선  
 운영진 : 김현지, 박재찬, 오세린, 윤정현, 이나윤, 이영신, 최해윤   

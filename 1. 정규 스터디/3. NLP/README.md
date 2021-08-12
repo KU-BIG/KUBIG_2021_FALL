@@ -13,7 +13,7 @@
 |  2주차  | 2021.07.22 | **신경망 복습, 자연어와 단어의 분산표현** | pmi matrix, 크롤링, wordcloud  | 
 |  3주차  | 2021.07.29 | **word2vec** | t-sne, hyperparameter tuning, 사전학습모델 활용 | 
 |  4주차  | 2021.08.05 | **word2vec 속도개선** | word2vec (skipgram) 구현 | 
-|  5주차  | 2021.08.12 | **순환 신경망(RNN)** |  |  
+|  5주차  | 2021.08.12 | **순환 신경망(RNN)** | simpleRNN 활용 |  
 |  6주차  | 2021.08.19 | **게이트가 추가된 RNN** | 팀별 mini project |  
 |  7주차  | 2021.08.26 | **사전학습모델** | 팀별 mini project |
 

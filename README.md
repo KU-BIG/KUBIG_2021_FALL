@@ -7,19 +7,19 @@
   - **1년간 활동**(**방학 포함**)이 가능한 고려대학교 학생
   - 전공 무관, 학부/대학원 무관
   - **매주 목요일(세션) 포함 최소 주 2회 이상 모임 가능한 분**
-  - **R**과 **Python**을 배우고 싶은 분
   - 데이터 분석/머신러닝/딥러닝/강화학습/AI에 관심 있으신 분
 
 
 ## Contact
+   
+- **회장단:** 성유지, 임효진, 조규선  
+- **운영진:** 김현지, 박재찬, 오세린, 윤정현, 이나윤, 이영신, 최해윤
+
 
 <p align="center">
 <a href="https://www.instagram.com/kubig.official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
 <a href="mailto:chloesung@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 <a href="https://www.facebook.com/kubigdata"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-</p>
-   
-- 회장단 : 성유지, 임효진, 조규선  
-- 운영진 : 김현지, 박재찬, 오세린, 윤정현, 이나윤, 이영신, 최해윤   
+</p>  
 
 

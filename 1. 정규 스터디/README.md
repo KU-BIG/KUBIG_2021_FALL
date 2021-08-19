@@ -3,17 +3,17 @@
 - **목표:** 머신러닝, 딥러닝, 인공지능 분야의 이론 습득 및 코드 실습
 
 ## ML
-- Machine Learning 스터디에서는 인공지능의 한 분야인 머신러닝의 기초 이론과 모델링 등을 공부합니다.
-- 분반장: 조규선
+- Machine Learning 스터디에서는 인공지능의 한 분야인 **머신러닝의 기초 이론과 모델링** 등을 공부합니다.
+- 분반장: 조규선, 조민제
 
 ## DL
-- Deep Learning 스터디에서는 NLP, CV 등의 기반이 되는 여러 기초적인 딥러닝 기법들을 공부합니다.
+- Deep Learning 스터디에서는 NLP, CV 등의 기반이 되는 여러 **기초적인 딥러닝 기법**들을 공부합니다.
 - 분반장: 이나윤, 임효진
 
 ## NLP
-- NLP 스터디에서는 언어를 컴퓨터로 처리하는 인공지능 분야인 자연어 처리의 기초와 적용에 대해 공부합니다.  
+- NLP 스터디에서는 언어를 컴퓨터로 처리하는 인공지능 분야인 **자연어 처리의 기초와 적용**에 대해 공부합니다.  
 - 분반장: 성유지, 최정윤
 
 ## CV
-- CV 스터디에서는 image classification, object detection, neural style transfer, GANs 등, 딥러닝을 이용한 컴퓨터 비전에서 인기있는 주제들에 대하여 공부합니다.
+- CV 스터디에서는 image classification, object detection, neural style transfer, GANs 등, 딥러닝을 이용한 **컴퓨터 비전에서 인기있는 주제들**에 대하여 공부합니다.
 - 분반장: 조규선

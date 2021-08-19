@@ -16,7 +16,7 @@
 - facebook page : https://www.facebook.com/kubigdata      
 - instagram page : https://www.instagram.com/kubig.official  
    
-회장단 : 성유지, 임효진, 조규선  
-운영진 : 김현지, 박재찬, 오세린, 윤정현, 이나윤, 이영신, 최해윤   
+- 회장단 : 성유지, 임효진, 조규선  
+- 운영진 : 김현지, 박재찬, 오세린, 윤정현, 이나윤, 이영신, 최해윤   
 
 

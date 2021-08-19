@@ -12,9 +12,12 @@
 
 
 ## Contact
-- github admin : chloesung@korea.ac.kr    
-- facebook page : https://www.facebook.com/kubigdata      
-- instagram page : https://www.instagram.com/kubig.official  
+
+<p align="center">
+<a href="https://www.instagram.com/kubig.official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
+<a href="mailto:chloesung@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+<a href="https://www.facebook.com/kubigdata"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+</p>
    
 - 회장단 : 성유지, 임효진, 조규선  
 - 운영진 : 김현지, 박재찬, 오세린, 윤정현, 이나윤, 이영신, 최해윤   

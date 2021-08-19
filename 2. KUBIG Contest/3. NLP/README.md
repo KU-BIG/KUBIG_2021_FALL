@@ -4,7 +4,7 @@
 - **스터디 Notion:** [Click here!](https://chloesung.notion.site/KUBIG-2021-Summer-NLP-Study-9067036b2cf14b3abe3bb7247bb2900c)
 <br>
 
-## Team
+# 👨‍👩‍👧‍👦 Team
 
 ## `분류 팀`   팀명
 - **팀원:** 김현지 박주영

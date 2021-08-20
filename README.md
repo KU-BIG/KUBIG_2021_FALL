@@ -2,7 +2,9 @@
 
 
 ### 고려대학교 유일의 데이터 사이언스 학회
-<img src="ttps://user-images.githubusercontent.com/71932401/130196234-1921c4a9-9446-4a97-9ceb-ab77b6884f05.png" width="700" height="370">
+
+![쿠빅 2021 포스터](https://user-images.githubusercontent.com/71932401/130196234-1921c4a9-9446-4a97-9ceb-ab77b6884f05.png)
+
 
 * 지원자격
   - **1년간 활동**(**방학 포함**)이 가능한 고려대학교 학생

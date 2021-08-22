@@ -1,7 +1,7 @@
 # NLP Study
 고려대학교 데이터 사이언스 학회 KUBIG에서 2021-2학기에 진행한 자연어처리 스터디입니다.  
 * 분반장: 성유지, 최정윤
-* [**NLP Study Notion**](https://chloesung.notion.site/KUBIG-2021-Summer-NLP-Study-9067036b2cf14b3abe3bb7247bb2900c)에서 더 자세한 스터디 진행 내용을 확인하실 수 있습니다. 
+* [**NLP Study Notion**](https://chloesung.notion.site/KUBIG-2021-Summer-NLP-Study-9067036b2cf14b3abe3bb7247bb2900c)에서 개인 별 과제 등 더 자세한 스터디 진행 내용을 확인하실 수 있습니다. 
 
 <br>
 

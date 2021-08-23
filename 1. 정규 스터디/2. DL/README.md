@@ -14,7 +14,6 @@
 |  4주차  | 2021.08.05 | **코딩실습 + 과제발표** | CS231n Assignment 2 | 
 |  5주차  | 2021.08.12 | **RNN (개념+논문) & 자연어처리 기초 개념** | 모두를 위한 딥러닝 강좌 시즌 1 (lec 12-0,1,2,3,4,5,6) + 딥러닝으로 시작하는 자연어처리 입문 Wikidocs 9단원 |  
 |  6주차  | 2021.08.19 | **코딩실습 + 과제발표** | 딥러닝으로 시작하는 자연어 처리 입문 Wikidocs 11-4,7, 12-6, 19-1 |  
-|  7주차  | 2021.08.26 | **대회소개** | CV 대회 : Human Protein Atlas Image Classification
-, NLP 대회: Dacon 뉴스 기사 분류 |
+|  7주차  | 2021.08.26 | **대회소개** | CV 대회 : Human Protein Atlas Image Classification, NLP 대회: Dacon 뉴스 기사 분류 |
 
 <br>

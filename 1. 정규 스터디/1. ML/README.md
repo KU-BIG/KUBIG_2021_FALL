@@ -1,5 +1,5 @@
-# CV Study
-고려대학교 데이터 사이언스 학회 KUBIG에서 2021년 여름방학에 진행한 컴퓨터비전 스터디입니다.  
+# ML Study
+고려대학교 데이터 사이언스 학회 KUBIG에서 2021년 여름방학에 진행한 머신러닝 스터디입니다.  
 * 분반장: 조규선, 조민제
 * [**KUBIG Youtube**](https://www.youtube.com/playlist?list=PLmspR8EWUwDfVMh81WWXnqOD5lRDyReNQ)에서 스터디 수업 영상을 확인 할 수 있습니다. 
 

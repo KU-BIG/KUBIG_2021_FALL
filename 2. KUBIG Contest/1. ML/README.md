@@ -1,6 +1,7 @@
 # 🏆 KUBIG ML CONTEST
 - **기간:** 2021.08.12 ~ 2021.09.02
 - **목표:** 스터디한 머신러닝 기법을 바탕으로 데이콘의 서울시 따릉이 예측하기 대회 참여하기
+- **대회 링크:** https://dacon.io/competitions/open/235576/overview/description
 <br>
 
 # 👨‍👩‍👧‍👦 Team

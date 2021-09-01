@@ -12,7 +12,7 @@
  <br />  
  
 ## 프로젝트 목적
-   Mission 1 
+   Mission 1: multi_box_class.ipynb  
  -  x-ray 이미지를 학습해 이상이 있는 이미지(Opacity)와 없는 이미지(None) 구분
  - 이상이 있는 경우 이상이 있는 곳의 위치 detection
 

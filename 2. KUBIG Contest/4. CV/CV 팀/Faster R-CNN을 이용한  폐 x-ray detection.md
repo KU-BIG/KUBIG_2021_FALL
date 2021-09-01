@@ -1,5 +1,5 @@
 
-# Faster R-CNN 을 이용한 폐 사진 detection
+# Faster R-CNN을 이용한 폐 x-ray detection
 
  <br /> 
  <br />  

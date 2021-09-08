@@ -3,7 +3,8 @@
 ## ❗ 프로젝트 소개
 - 목적: 기사 읽기도 바쁜 취준생들을 위한 뉴스 요약 서비스 📰
 - 기간: 2021.08.14 ~ 2021.09.02
-- 팀원: 금지헌, 윤정현, 장하연, 최정윤 <br>
+- 팀원: 금지헌, 윤정현, 장하연, 최정윤 
+- Github : [ASUM-News-summarization/Naver_news_summarizer](https://github.com/ASUM-News-summarization/Naver_news_summarizer)<br>
 <br>
 
 ## ❕ 사용 방법

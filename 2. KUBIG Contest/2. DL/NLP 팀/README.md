@@ -34,7 +34,7 @@
 - BiLSTM (양방향 LSTM)은 두 개의 독립적인 LSTM을 사용하는 구조. 
 - 문장을 왼쪽에서 오른쪽으로 읽는 LSTM과는 달리 뒤의 문맥까지 고려하기 위해 문장의 오른쪽에서 반대로 읽는 역방향의 LSTM을 함께 사용. 
 결과적으로 두 가지 정보를 모두 고려하여 출력층에서 보여줌
--BiLSTM 모델은 Public 0.8225, Private 0.7908의 성능을 보여줌
+- BiLSTM 모델은 Public 0.8225, Private 0.7908의 성능을 보여줌
 
 ![image](https://user-images.githubusercontent.com/77607220/133032752-8ebad7fe-dc4c-47ad-b00b-a134e697536d.png)
 
@@ -48,5 +48,5 @@
 ### 결과
 ![image](https://user-images.githubusercontent.com/77607220/133032708-0c5e4d2c-d879-4327-bd11-815a36c4c16e.png)
 
-BiLSTM 모델: Public 0.8225, Private 0.7908
-KoBERT 모델: Public 0.8617, Private 0.8293
+- BiLSTM 모델: Public 0.8225, Private 0.7908
+- KoBERT 모델: Public 0.8617, Private 0.8293

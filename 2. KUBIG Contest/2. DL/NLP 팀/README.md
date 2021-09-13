@@ -18,8 +18,8 @@
 ![image](https://user-images.githubusercontent.com/77607220/133032530-a4fab1c2-83c9-452e-9e1e-f94b012bcf47.png)
 ![image](https://user-images.githubusercontent.com/77607220/133032555-19ca6d41-f99c-457b-a724-08c4cd6432be.png)
 
--훈련데이터 레이블 분포: 불균형 처리 필요없다고 판단
--형태소분석기 사전에 등록되지 않은 고유명사가 많음 -> 사전등록 필요
+- 훈련데이터 레이블 분포: 불균형 처리 필요없다고 판단
+- 형태소분석기 사전에 등록되지 않은 고유명사가 많음 -> 사전등록 필요
 
 ### 데이터 전처리
 1. shuffle 후 train/test 데이터 분리

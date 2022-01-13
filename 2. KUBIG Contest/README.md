@@ -1,6 +1,6 @@
-# KUBIG CONTEST
 <img width="1049" alt="스크린샷 2022-01-13 오후 10 26 51" src="https://user-images.githubusercontent.com/71932401/149338859-6506f66a-cfee-4dca-896c-0b628d80ead2.png">
 
+# KUBIG CONTEST
 - **일시:** 2021.09.02 (목)
 - **설명:** 정규스터디에서 두달동안 공부한 내용을 바탕으로 KUBIG 자체적으로 진행한 데이터 분석 대회
 

@@ -1,4 +1,5 @@
 # KUBIG CONTEST
+[KUBIG CONTEST.pdf](https://github.com/KU-BIG/KUBIG_2021_FALL/files/7863061/KUBIG.CONTEST.pdf)
 - **일시:** 2021.09.02 (목)
 - **설명:** 정규스터디에서 두달동안 공부한 내용을 바탕으로 KUBIG 자체적으로 진행한 데이터 분석 대회
 

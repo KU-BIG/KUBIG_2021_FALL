@@ -1,4 +1,6 @@
-# 김임김: Crypto Forecasting with G-Research
+# 김임김
+### Crypto Forecasting with G-Research
+<br>
 
 ## 프로젝트 소개
 - **목적:** 내용

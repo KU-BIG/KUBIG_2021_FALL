@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>KLUE Sum</title>
+    <link href="../static/css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.png" />
+    <script data-search-pseudo-elements defer
+        src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.24.1/feather.min.js"
+        crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="layoutDefault">
+        <div id="layoutDefault_content">
+            <header class="page-header-ui bg-white">
+                <div class="page-header-ui-content">
+                    <div class="container px-2">
+                        <div class="row gx-2 justify-content-center">
+                            <div class="col-xl-3 col-lg-4 text-center mb-4">
+                                <h1>클루 강의평 요약 서비스</h1>
+                                <h5>KUBIG 21-2 장기 프로젝트</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="svg-border-rounded text-light">
+                    <!-- Rounded SVG Border-->
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.54 17.34" preserveAspectRatio="none"
+                        fill="currentColor">
+                        <path d="M144.54,17.34H0V0H144.54ZM0,0S32.36,17.34,72.27,17.34,144.54,0,144.54,0"></path>
+                    </svg>
+                </div>
+            </header>
+            <section class="bg-light pb-10 pt-5">
+                <div class="container px-5">
+                    <form action="{{ url_for('index') }}" method="POST" class="mb-5">
+                        <table>
+                            <tr>
+                                <td valgn="top">
+                                    <label for="subject">과목명</label>
+                                    <br>
+                                    <select name="items1" name="subject" id="subject">
+                                        <option value="org_text1">수리통계학</option>
+                                        <option value="org_text2">경영정보시스템</option>
+                                        <option value="org_text3">관리회계</option>
+                                        <option value="org_text4">경영과학</option>
+                                        <option value="org_text5">경영수학</option>
+                                        <option value="org_text6">마케팅원론</option>
+                                    </select>
+                                    <br>
+                                    <label for="subject">교수님</label>
+                                    <br>
+                                    <select name="items2" name="prof" id="prof">
+                                        <option value="prof">송성주</option>
+                                        <option value="prof">한재민</option>
+                                        <option value="prof">김진</option>
+                                        <option value="prof">박경삼</option>
+                                        <option value="prof">임희주</option>
+                                        <option value="prof">김상용</option>
+                                    </select>
+                                </td>
+                            </tr>
+                        </table>
+                        <br>
+                        <input type="submit" value="요약하기"/>
+                    </form>
+                    <h4>{{lecture}} 요약 결과</h4>
+                    <p>{{result}}</p>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <div id="layoutDefault_footer">
+        <div class="footer pt-10 pb-5 bg-dark footer-dark">
+            <div class="container px-5">
+                <div class="row gx-5">
+                    <div class="col-lg-3">
+                        <div class="footer-brand">KUBIG 21-2</div>
+                        <div class="mb-3">클루썸</div>
+                    </div>
+
+                </div>
+                <hr class="my-5" />
+                <div class="row gx-5 align-items-center">
+                    <div class="col-md-6 small">&copy; 12기 이가영, 13기 금지헌, 13기 기다연 13기 박주영, 13기 홍석민</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

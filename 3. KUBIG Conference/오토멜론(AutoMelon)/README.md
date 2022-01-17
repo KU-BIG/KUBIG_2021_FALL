@@ -20,7 +20,7 @@
 ## 사용한 모델
 **1. Playlist-based Collaborative filtering**
 - 빈도수 기반 weighting 기법(bm25) 활용
-- 유사도 계산: 내적, 자카드 계수  
+- 유사도 계산: 내적, 자카드 계수 <br>
 **2. Collaborative filtering + 곡 장르 데이터 추가**
 - 협업 필터링 모델에 각 플레이리스트별 장르 빈도수 데이터 추가 활용
 **3. Word2Vec: 플레이리스트 제목 활용**

@@ -61,5 +61,3 @@ https://github.com/yingkaisha/keras-unet-collection/tree/main/keras_unet_collect
 https://arxiv.org/pdf/1505.04597.pdf)%e5%92%8c%5bTiramisu%5d(https://arxiv.org/abs/1611.09326.pdf
 https://arxiv.org/abs/1804.03999
 https://arxiv.org/abs/2102.03111
-
-
